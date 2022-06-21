@@ -34,3 +34,7 @@
 - Turtles are very slow and have very limited storage and computing power so it is handed off almost entirely to the app.
 - Communication is maintained via a websocket server.
 - Multible websocket connections are possible due to Ngrok.
+
+# Media
+![Frontend](TurtleApplication.png)
+![World being displayed](Turtleworld.png)
